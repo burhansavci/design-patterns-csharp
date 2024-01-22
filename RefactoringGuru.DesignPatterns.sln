@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.Conceptual.NonThr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton.Conceptual.ThreadSafe", "Singleton.Conceptual\ThreadSafe\Singleton.Conceptual.ThreadSafe.csproj", "{4FBA49E6-3CBE-421D-8E4F-182F13B6319D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.RealWorld", "FactoryMethod.RealWorld\FactoryMethod.RealWorld.csproj", "{CE63A651-ED8A-4489-BD35-10EE2D772E2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,10 @@ Global
 		{4FBA49E6-3CBE-421D-8E4F-182F13B6319D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FBA49E6-3CBE-421D-8E4F-182F13B6319D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FBA49E6-3CBE-421D-8E4F-182F13B6319D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE63A651-ED8A-4489-BD35-10EE2D772E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE63A651-ED8A-4489-BD35-10EE2D772E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE63A651-ED8A-4489-BD35-10EE2D772E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE63A651-ED8A-4489-BD35-10EE2D772E2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
