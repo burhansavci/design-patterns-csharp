@@ -7,8 +7,6 @@
 
 namespace RefactoringGuru.DesignPatterns.FactoryMethod.RealWorld;
 
-
-
 // EN: Interface with the factory method
 interface IDbConnectionFactory
 {
