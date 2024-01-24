@@ -70,7 +70,7 @@ class Program
         Console.WriteLine("App: Launched with the MongoDbConnectionFactory.");
         new Client().ClientCode(new MongoDbConnectionFactory());
             
-        Console.WriteLine("");
+        Console.WriteLine();
 
         Console.WriteLine("App: Launched with the SqlServerDbConnectionFactory.");
         new Client().ClientCode(new SqlServerDbConnectionFactory());
