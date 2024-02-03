@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter.RealWorld", "Adapte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.RealWorld", "Builder.RealWorld\Builder.RealWorld.csproj", "{E71290FF-87C6-4C85-B16A-F88C840A6053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype.RealWorld", "Prototype.RealWorld\Prototype.RealWorld.csproj", "{3CC8FA24-5797-4E59-A66B-0C5A4787C8B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -175,6 +177,10 @@ Global
 		{E71290FF-87C6-4C85-B16A-F88C840A6053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E71290FF-87C6-4C85-B16A-F88C840A6053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E71290FF-87C6-4C85-B16A-F88C840A6053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC8FA24-5797-4E59-A66B-0C5A4787C8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC8FA24-5797-4E59-A66B-0C5A4787C8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC8FA24-5797-4E59-A66B-0C5A4787C8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC8FA24-5797-4E59-A66B-0C5A4787C8B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
