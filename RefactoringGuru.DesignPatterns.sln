@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.RealWorld", "Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade.RealWorld", "Facade.RealWorld\Facade.RealWorld.csproj", "{7A716F2D-A4CF-4628-935E-9589CB84F694}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight.RealWorld", "Flyweight.RealWorld\Flyweight.RealWorld.csproj", "{470AC9DA-2943-4620-BCD4-67496C140CC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -205,6 +207,10 @@ Global
 		{7A716F2D-A4CF-4628-935E-9589CB84F694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A716F2D-A4CF-4628-935E-9589CB84F694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A716F2D-A4CF-4628-935E-9589CB84F694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470AC9DA-2943-4620-BCD4-67496C140CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470AC9DA-2943-4620-BCD4-67496C140CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470AC9DA-2943-4620-BCD4-67496C140CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470AC9DA-2943-4620-BCD4-67496C140CC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
