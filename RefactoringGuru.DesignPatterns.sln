@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight.RealWorld", "Flyw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy.RealWorld", "Proxy.RealWorld\Proxy.RealWorld.csproj", "{A7C3900B-370F-4BFE-9EA6-FA819F0851B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility.RealWorld", "ChainOfResponsibility.RealWorld\ChainOfResponsibility.RealWorld.csproj", "{4C7A8A13-D654-4E5F-B9A7-5D05D068EF1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +219,10 @@ Global
 		{A7C3900B-370F-4BFE-9EA6-FA819F0851B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7C3900B-370F-4BFE-9EA6-FA819F0851B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7C3900B-370F-4BFE-9EA6-FA819F0851B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7A8A13-D654-4E5F-B9A7-5D05D068EF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7A8A13-D654-4E5F-B9A7-5D05D068EF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7A8A13-D654-4E5F-B9A7-5D05D068EF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7A8A13-D654-4E5F-B9A7-5D05D068EF1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
