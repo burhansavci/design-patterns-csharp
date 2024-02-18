@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy.RealWorld", "Proxy.Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility.RealWorld", "ChainOfResponsibility.RealWorld\ChainOfResponsibility.RealWorld.csproj", "{4C7A8A13-D654-4E5F-B9A7-5D05D068EF1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command.RealWorld", "Command.RealWorld\Command.RealWorld.csproj", "{2ADD0FF8-3194-457A-8E86-C1A50B8432EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -223,6 +225,10 @@ Global
 		{4C7A8A13-D654-4E5F-B9A7-5D05D068EF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C7A8A13-D654-4E5F-B9A7-5D05D068EF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C7A8A13-D654-4E5F-B9A7-5D05D068EF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ADD0FF8-3194-457A-8E86-C1A50B8432EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ADD0FF8-3194-457A-8E86-C1A50B8432EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ADD0FF8-3194-457A-8E86-C1A50B8432EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ADD0FF8-3194-457A-8E86-C1A50B8432EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
