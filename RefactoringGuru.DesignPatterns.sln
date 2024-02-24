@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.RealWorld", "Media
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento.RealWorld", "Memento.RealWorld\Memento.RealWorld.csproj", "{C770A911-9A2E-45C7-86CD-440059A6B1E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.RealWorld", "State.RealWorld\State.RealWorld.csproj", "{191F3229-0849-4F15-BE3D-DE4B1BD26F6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -241,6 +243,10 @@ Global
 		{C770A911-9A2E-45C7-86CD-440059A6B1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C770A911-9A2E-45C7-86CD-440059A6B1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C770A911-9A2E-45C7-86CD-440059A6B1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{191F3229-0849-4F15-BE3D-DE4B1BD26F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191F3229-0849-4F15-BE3D-DE4B1BD26F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191F3229-0849-4F15-BE3D-DE4B1BD26F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191F3229-0849-4F15-BE3D-DE4B1BD26F6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
